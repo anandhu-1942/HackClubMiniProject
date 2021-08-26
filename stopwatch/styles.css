@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    border : 2px solid black;
+    height: 350px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+    font-size: 72px;
+    text-align: center;
+    margin: 5px auto;
+}
+
+.buttons{
+    text-align: center;
+}
